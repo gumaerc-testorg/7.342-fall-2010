@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Summaries
 parent_type: CourseSection
+parent_uid: 35ac297c-8a54-8dc9-1ccf-75219daf7636
 resourcetype: Other
 title: 'MATLAB code implementing the Gillespie Algorithm '
 uid: 3c0f2e24-cda2-a421-1398-515b0c7696ef

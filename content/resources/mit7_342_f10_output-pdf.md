@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Summaries
 parent_type: CourseSection
+parent_uid: 35ac297c-8a54-8dc9-1ccf-75219daf7636
 resourcetype: Document
 title: Stochastic gene expression dynamics
 uid: 36a92742-17fc-652d-ac0b-122f93820487
