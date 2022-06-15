@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions and guidelines for the writing assignments
+  of the course along with an example of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -18,7 +20,7 @@ Individual cells in genetically homogeneous populations have been found to expre
 
 ### Student Response
 
-A sample student response to this assignment is included below. All work is courtesy of an MIT student and used with permission. ([PDF]({{< baseurl >}}/resources/mit7_342f10_studntwk_assn1))
+A sample student response to this assignment is included below. All work is courtesy of an MIT student and used with permission. ({{% resource_link fcfaf585-f6ca-483e-f342-55dda22d5cde "PDF" %}})
 
 **Paper 2, due Week #11**
 
