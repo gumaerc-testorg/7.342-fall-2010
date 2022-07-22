@@ -6,6 +6,7 @@ file: /courses/7-342-systems-and-synthetic-biology-how-the-cell-solves-problems-
 file_type: text/x-objcsrc
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Summaries
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'MATLAB code implementing the Gillespie Algorithm '
 uid: 3c0f2e24-cda2-a421-1398-515b0c7696ef
 ---
 This is a Gillespie stochastic simulation of a constitutively expressed gene.
-

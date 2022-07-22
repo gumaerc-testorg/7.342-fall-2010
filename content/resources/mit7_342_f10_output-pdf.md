@@ -6,6 +6,7 @@ file: /courses/7-342-systems-and-synthetic-biology-how-the-cell-solves-problems-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Summaries
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Stochastic gene expression dynamics
 uid: 36a92742-17fc-652d-ac0b-122f93820487
 ---
 Lecture slide showing the output of MATLAB code that implements the Gillespie Algorithm for a constitutively expressed gene.
-
