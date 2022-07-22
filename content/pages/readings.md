@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the readings assigned for each lecture topic of
+  the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 9bb18ade-933d-ecc1-e070-b6922e20459d
 ---
@@ -29,7 +34,7 @@ READINGS
 
 Introduction to the class and topic
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#The_instructor_and_students)
+{{% resource_link 35ac297c-8a54-8dc9-1ccf-75219daf7636 "See the Lecture Summary" "#The_instructor_and_students" %}}
 
 
 {{< tdclose >}}
@@ -47,7 +52,7 @@ Introduction to the class and topic
 
 Simple synthetic networks
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Much_of_the_recent)
+{{% resource_link 35ac297c-8a54-8dc9-1ccf-75219daf7636 "See the Lecture Summary" "#Much_of_the_recent" %}}
 
 
 {{< tdclose >}}
@@ -75,7 +80,7 @@ Becskei, A., B. Séraphin, and L. Serrano. "[Positive Feedback in Eukaryotic Gen
 
 Noise in gene expression (I)
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#One_of_the_first_findings)
+{{% resource_link 35ac297c-8a54-8dc9-1ccf-75219daf7636 "See the Lecture Summary" "#One_of_the_first_findings" %}}
 
 
 {{< tdclose >}}
@@ -103,7 +108,7 @@ Gillespie, D. T. "[Exact Stochastic Simulation of Coupled Chemical Reactions](ht
 
 Noise in gene expression (II)
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Lately_a_number)
+{{% resource_link 35ac297c-8a54-8dc9-1ccf-75219daf7636 "See the Lecture Summary" "#Lately_a_number" %}}
 
 
 {{< tdclose >}}
@@ -116,7 +121,7 @@ Ko, M. S., H. Nakauchi, and N. Takahashi. "[The Dose Dependence of Glucocorticoi
 
 ### Paper 2
 
-Bengtsson, M., A. Stahlberg, P. Rorsman, and M. Kubista. "Gene Expression Profiling in Single Cells from the Pancreatic Islets of Langerhans Reveals Lognormal Distribution of mRNA Levels." _Genome Research_ 15 (2005): 1388–92. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://genome.cshlp.org/content/15/10/1388.full.pdf))
+Bengtsson, M., A. Stahlberg, P. Rorsman, and M. Kubista. "Gene Expression Profiling in Single Cells from the Pancreatic Islets of Langerhans Reveals Lognormal Distribution of mRNA Levels." _Genome Research_ 15 (2005): 1388–92. ([PDF](http://genome.cshlp.org/content/15/10/1388.full.pdf))
 
 
 {{< tdclose >}}
@@ -131,7 +136,7 @@ Bengtsson, M., A. Stahlberg, P. Rorsman, and M. Kubista. "Gene Expression Profil
 
 Noise in gene expression (III)
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Now_that_stochastic)
+{{% resource_link 35ac297c-8a54-8dc9-1ccf-75219daf7636 "See the Lecture Summary" "#Now_that_stochastic" %}}
 
 
 {{< tdclose >}}
@@ -159,7 +164,7 @@ Yu, J., J. Xiao, X. Ren, K. Lao, and X. S. Xie. "[Probing Gene Expression in Liv
 
 Structure of biological networks
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#One_of_the_central_goals)
+{{% resource_link 35ac297c-8a54-8dc9-1ccf-75219daf7636 "See the Lecture Summary" "#One_of_the_central_goals" %}}
 
 
 {{< tdclose >}}
@@ -187,7 +192,7 @@ Shen-Orr, S. S., R. Milo, S. Mangan, and U. Alon. " [Network Motifs in the Trans
 
 Physical limits of gradient and concentration sensing
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Microorganisms)
+{{% resource_link 35ac297c-8a54-8dc9-1ccf-75219daf7636 "See the Lecture Summary" "#Microorganisms" %}}
 
 
 {{< tdclose >}}
@@ -215,7 +220,7 @@ Berg, H. C., and E. M. Purcell. "[Physics of Chemoreception](http://www.ncbi.nlm
 
 Field trip
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#This_week)
+{{% resource_link 35ac297c-8a54-8dc9-1ccf-75219daf7636 "See the Lecture Summary" "#This_week" %}}
 
 
 {{< tdclose >}}
@@ -233,7 +238,7 @@ Field trip
 
 Bacterial chemotaxis
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#This_week_we_discuss)
+{{% resource_link 35ac297c-8a54-8dc9-1ccf-75219daf7636 "See the Lecture Summary" "#This_week_we_discuss" %}}
 
 
 {{< tdclose >}}
@@ -261,7 +266,7 @@ Sourjik, V., and H. C. Berg. "[Receptor Sensitivity in Bacterial Chemotaxis](htt
 
 Development of multicellular organisms under noisy conditions
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Last_week)
+{{% resource_link 35ac297c-8a54-8dc9-1ccf-75219daf7636 "See the Lecture Summary" "#Last_week" %}}
 
 
 {{< tdclose >}}
@@ -289,7 +294,7 @@ Ben-Zvi, D., B. Z. Shilo, A. Fainsod, and N. Barkai. "[Scaling of the BMP Activa
 
 Circadian oscillations
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Circadian_oscillations)
+{{% resource_link 35ac297c-8a54-8dc9-1ccf-75219daf7636 "See the Lecture Summary" "#Circadian_oscillations" %}}
 
 
 {{< tdclose >}}
@@ -317,7 +322,7 @@ Rust, M. J., J. S. Markson, W. S. Lane, D. S. Fisher, and E. K. O'Shea. "[Ordere
 
 Noise in development
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#The_developmental)
+{{% resource_link 35ac297c-8a54-8dc9-1ccf-75219daf7636 "See the Lecture Summary" "#The_developmental" %}}
 
 
 {{< tdclose >}}
@@ -345,7 +350,7 @@ Karp, X., and I. Greenwald. "[Post-Transcriptional Regulation of the E/Daughterl
 
 Synthetic biology
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#At_the_beginning)
+{{% resource_link 35ac297c-8a54-8dc9-1ccf-75219daf7636 "See the Lecture Summary" "#At_the_beginning" %}}
 
 
 {{< tdclose >}}

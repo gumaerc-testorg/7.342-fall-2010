@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and brief summaries
+  of each lecture.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Summaries
 uid: 35ac297c-8a54-8dc9-1ccf-75219daf7636
 ---
@@ -82,13 +87,13 @@ Noise in gene expression (III)
 
 _Further Information on stochastic gene expression:_
 
-\- MATLAB® code implementing Gillespie Algorithm ([M]({{< baseurl >}}/resources/mit7_342_f10_algorithm))  
+\- MATLAB® code implementing Gillespie Algorithm ({{% resource_link 3c0f2e24-cda2-a421-1398-515b0c7696ef "M" %}})  
 
   This is a Gillespie stochastic simulation of a constitutively expressed
 
   gene.
 
-\- Stochastic gene expression dynamics ([PDF]({{< baseurl >}}/resources/mit7_342_f10_output-pdf))
+\- Stochastic gene expression dynamics ({{% resource_link 36a92742-17fc-652d-ac0b-122f93820487 "PDF" %}})
 
    This is the output of the MATLAB code that implements the Gillespie  
    Algorithm for a constitutively expressed gene.
