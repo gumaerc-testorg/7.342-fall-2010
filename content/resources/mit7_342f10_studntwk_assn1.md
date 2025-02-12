@@ -3,7 +3,8 @@ content_type: resource
 description: Example of student work for a writing assignment to describe the experiments
   (including controls, experimental techniques, and modeling techniques) that might
   have been done to justify a provided abstract.
-file: /courses/7-342-systems-and-synthetic-biology-how-the-cell-solves-problems-fall-2010/fcfaf585f6ca483ef34255dda22d5cde_MIT7_342F10_studntwk_Assn1.pdf
+file: /ol-ocw-studio-app/courses/7-342-systems-and-synthetic-biology-how-the-cell-solves-problems-fall-2010/fcfaf585f6ca483ef34255dda22d5cde_MIT7_342F10_studntwk_Assn1.pdf
+file_size: 58337
 file_type: application/pdf
 learning_resource_types:
 - Assignments

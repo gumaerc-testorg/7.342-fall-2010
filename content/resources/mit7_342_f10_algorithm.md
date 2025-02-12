@@ -2,7 +2,8 @@
 content_type: resource
 description: This is a Gillespie stochastic simulation of a constitutively expressed
   gene.
-file: /courses/7-342-systems-and-synthetic-biology-how-the-cell-solves-problems-fall-2010/3c0f2e24cda2a4211398515b0c7696ef_MIT7_342_F10_algorithm.m
+file: /ol-ocw-studio-app/courses/7-342-systems-and-synthetic-biology-how-the-cell-solves-problems-fall-2010/3c0f2e24cda2a4211398515b0c7696ef_MIT7_342_F10_algorithm.m
+file_size: 1092
 file_type: text/x-objcsrc
 learning_resource_types:
 - Lecture Notes
