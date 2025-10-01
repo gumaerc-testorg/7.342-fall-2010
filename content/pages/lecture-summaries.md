@@ -134,7 +134,7 @@ Physical limits of gradient and concentration sensing
 Field trip
 {{< tdclose >}}
 {{< tdopen >}}
-{{< anchor "This_week" >}}{{< /anchor >}}This week we will attend the "Boston Area Systems and Synthetic (BASS) Biology Meeting" at the [Harvard-MIT Broad Institute](http://www.broadinstitute.org/). Hyun will be one of the three speakers at the seminar! The students will hear exciting current research in systems and synthetic biology taking place in the Boston area – the "silicon valley" for systems and synthetic biology.
+{{< anchor "This_week" >}}{{< /anchor >}}This week we will attend the "Boston Area Systems and Synthetic (BASS) Biology Meeting" at the {{% resource_link "aa04173c-dc51-41c9-9afc-9ef9c15e9fd3" "Harvard-MIT Broad Institute" %}}. Hyun will be one of the three speakers at the seminar! The students will hear exciting current research in systems and synthetic biology taking place in the Boston area – the "silicon valley" for systems and synthetic biology.
 {{< tdclose >}}
 
 {{< trclose >}}

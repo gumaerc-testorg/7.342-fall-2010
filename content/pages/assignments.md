@@ -24,7 +24,7 @@ A sample student response to this assignment is included below. All work is cour
 
 **Paper 2, due Week #11**
 
-Paper for assignment #2: Zeng, L., S.O. Skinner, C. Zong, J. Sippy, M. Feiss, I. Golding. 2010. [Decision making at a subcellular level determines the outcome of bacteriophage infection.](http://www.ncbi.nlm.nih.gov/pubmed/20478257) Cell 141: 682–691.
+Paper for assignment #2: Zeng, L., S.O. Skinner, C. Zong, J. Sippy, M. Feiss, I. Golding. 2010. {{% resource_link "57d3ea78-1322-4546-b312-c275e8b9b421" "Decision making at a subcellular level determines the outcome of bacteriophage infection." %}} Cell 141: 682–691.
 
 In this assignment, students will write a critique of a published paper (Zeng et al. Cell 2010). The assignment should be written up like a referee report for a paper. The report should start with a paragraph that summarizes the work, and then critique the paper, considering the following questions:
 
